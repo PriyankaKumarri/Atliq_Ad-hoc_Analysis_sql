@@ -1,100 +1,122 @@
-# Atliq Ad-hoc SQL Analysis
+#  Atliq Ad-hoc SQL Analysis
 
-Welcome to the **Atliq Ad-hoc Analysis SQL Project**!  
-This project demonstrates how SQL can be leveraged to perform meaningful ad-hoc data analysis to drive business decisions for **Atliq Hardwares**, a fictional company. The project is based on real-world business problems, showcasing queries that uncover trends, insights, and operational metrics.
-
----
-
-## 📁 Project Structure
-
-This repository contains a series of **ad-hoc SQL queries** categorized into different business problem statements. The SQL files are structured to be clear, well-commented, and easily understandable for both beginners and experienced analysts.
-
-
-Each query addresses a specific business question and helps understand key areas like:
-
-- Product performance
-- Sales trend analysis
-- Inventory insights
-- Market penetration
-- Pricing analysis
+Welcome to the **Atliq Ad-hoc SQL Challenge**, a real-world business scenario where I tackled 10 unique queries to uncover operational, customer, and market insights for a fictional tech giant: **Atliq Hardware**.
 
 ---
 
-## 🎯 Objective
+## 📌 Project Overview
 
-The main objective of this project is to **practice and showcase SQL skills** by solving real-time business questions using **complex queries** involving:
+> **Objective:** Solve 10 business-driven ad-hoc SQL queries to support data-driven decisions for Atliq Hardware, assessing both technical and analytical thinking.
 
-- JOINs
-- CTEs
-- Subqueries
-- Aggregations
-- Filtering and sorting
-- Grouping data for insights
+- **Company:** Atliq Hardware
+- **Markets Operated:** NA, EU, LATAM, APAC
+- **Time Frame:** FY 2020 (Sep 2019 – Aug 2020), FY 2021
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 📈 Business Requests & SQL Solutions
 
-- **SQL** (MySQL/BigQuery)
-- **DBMS**: MySQL Workbench / Google BigQuery
-- **Dataset**: Provided via [codebasics.io](https://codebasics.io) virtual internship program
-- **Power BI**: for data visualisation
+Each business question is addressed with SQL and followed by key insights derived.
 
 ---
 
-## 📝 Sample Queries Covered
+### 1. 📍 **Markets of 'Atliq Exclusive' in APAC**
+[Query Link 🔗]([https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/1_Markets_Atliq_Exclusive_APAC.sql](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%201.sql)
 
-Some of the sample business problems covered include:
-
-- What is the Gross Sales for each month in 2020?
-- How many unique products were sold in each quarter?
-- Which are the top 5 performing products by revenue?
-- Which market has the highest YOY growth in revenue?
-- What is the average selling price per product category?
+- **Objective:** Identify markets in APAC where "Atliq Exclusive" operates.
+- **Insight:** Strategic regions for expansion and marketing focus.
 
 ---
 
-## 🔍 Insights Gained
+### 2. 📦 **% Increase in Unique Products (2021 vs 2020)**
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%202.sql)
 
-✅ Learned to write **optimized SQL queries** to answer real-time business questions  
-✅ Developed a strong understanding of **business KPIs** and **analytical thinking**  
-✅ Improved skills in **data manipulation**, **trend identification**, and **data storytelling**
-
----
-
-## 🧩 Challenges Faced
-
-- Understanding the business context behind each query
-- Translating vague business questions into concrete SQL logic
-- Managing and navigating large and relational datasets
+- **Insight:** Demand & production rose significantly in FY 2021.
 
 ---
 
-## 💡 What's Next?
+### 3. 🧩 **Product Count by Segment**
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%203.sql)
 
-In future iterations, I plan to:
+- **Insight:** Notebooks, accessories, and peripherals dominate manufacturing (~83%).
 
-- Visualize insights using Power BI or Tableau
-- Extend the dataset with more dimensions
-- Build a dashboard for executives using these KPIs
+---
+
+### 4. 🔼 **Segment with Highest Product Growth**
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/4_Segment_Wise_Product_Growth.sql)
+
+- **Insight:** Accessories lead in product increase. Storage & networking show slower growth.
+
+---
+
+### 5. 💰 **Products with Highest & Lowest Manufacturing Cost**
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%205.sql))
+
+- **Highest Cost:** Personal Desktop - AQ Home Allin1 Gen2  
+- **Lowest Cost:** Mouse - AQ Master Wired x1
+
+---
+
+### 6. 🎁 **Top 5 Customers by Avg Pre-Invoice Discount (India, FY2021)**
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/6_Top_5_Customers_Discount.sql)
+
+- **Insight:** Flipkart received the highest avg. discount, Amazon the least.
+
+---
+
+### 7. 📅 **Monthly Gross Sales of 'Atliq Exclusive'**
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/7_Monthly_Gross_Sales_Atliq_Exclusive.sql)
+
+- **Highest Month:** November (2020)  
+- **Lowest Month:** March (2020)  
+- **73.8%** of gross sales occurred in FY 2021.
+
+---
+
+### 8. 🔢 **Quarter with Highest Total Sold Quantity in FY2020**
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/8_Quarter_Sales_FY2020.sql)
+
+- **Top Quarter:** Q1 (approx. 34% of FY2020 sales)  
+- **Bottom Quarter:** Q3
+
+---
+
+### 9. 🛍️ **Top Performing Channel in FY2021**
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/9_Channel_Wise_Sales_Percentage.sql)
+
+- **Top Channel:** Retailer (73.22%)  
+- **Bottom Channel:** Distributor (11.31%)
+
+---
+
+### 10. 🥇 **Top 3 Products by Division (FY2021)**
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/10_Top_3_Products_By_Division.sql)
+
+- **Insight:** Products from every division appear with multiple variants in the top 3.
+
+---
+
+## 🛠 Tools & Skills Used
+
+- **SQL**: Advanced joins, CTEs, subqueries, window functions, aggregations
+- **DB**: MySQL / BigQuery-compatible syntax
+- **Platform**: MySQL Workbench / Google BigQuery
+- **Visualization**: Insights extracted for decision-making; can be further visualized in Power BI
+- **Soft Skills**: Business acumen, analytical storytelling, stakeholder understanding
 
 ---
 
 ## 🙋‍♀️ About Me
 
-Hi, I'm **Priyanka Kumari**, a passionate Business Analyst exploring the intersection of data and decision-making.  
-This project is a part of my continuous learning journey in SQL and data analytics.
+Hi, I’m **Priyanka Kumari**, a passionate Business Analyst. I love turning complex datasets into insightful stories to support smarter business decisions.
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanka-kumarri/)  
-📫 Reach out at: `singhpriyanka9703@gmail.com`
-
----
-
-## 📌 Acknowledgments
-
-This project is inspired by the **Codebasics Virtual Internship – Atliq Hardwares Ad-hoc Analysis Challenge**.  
-Special thanks to the community for learning and support.
+📫 Email: `singhpriyanka9703@gmail.com`  
+🔗 [LinkedIn](https://www.linkedin.com/in/priyanka-kumarri/)
 
 ---
 
-⭐ **If you found this project helpful, give it a star and follow for more!**
+## ⭐ Feedback & Contribution
+
+If you found this project insightful or helpful in your SQL learning journey, **give it a ⭐ and share it!**  
+Feel free to fork and try your own variations of the business queries.
+
