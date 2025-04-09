@@ -74,7 +74,8 @@ Each business question is addressed with SQL and followed by key insights derive
 ---
 
 ### 8. 🔢 **Quarter with Highest Total Sold Quantity in FY2020**
-[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%208%2B.sql)(https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%208.sql)
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%208%2B.sql)
+(https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%208.sql)
 
 - **Top Quarter:** Q1 (approx. 34% of FY2020 sales)  
 - **Bottom Quarter:** Q3
@@ -99,7 +100,7 @@ Each business question is addressed with SQL and followed by key insights derive
 
 To bring these SQL insights to life visually, I have also created a **Power BI dashboard** that transforms raw query results into interactive visualizations for better storytelling and decision-making.
 
-🔗 **[View Power BI Report](#)** *((https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Ad%20hoc%20Visuals.pbix))*  
+🔗 **[View Power BI Report](#)** (https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Ad%20hoc%20Visuals.pbix) 
 📄 **[Download Full PDF Analysis](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/sql_ppt.pdf)**
 
 > The PDF contains a well-structured explanation of each business query, SQL logic, and the insights derived, aligned with strategic business understanding.
