@@ -4,7 +4,7 @@ Welcome to the **Atliq Ad-hoc SQL Challenge**, a real-world business scenario wh
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 > **Objective:** Solve 10 business-driven ad-hoc SQL queries to support data-driven decisions for Atliq Hardware, assessing both technical and analytical thinking.
 
@@ -14,13 +14,13 @@ Welcome to the **Atliq Ad-hoc SQL Challenge**, a real-world business scenario wh
 
 ---
 
-## 📈 Business Requests & SQL Solutions
+##  Business Requests & SQL Solutions
 
 Each business question is addressed with SQL and followed by key insights derived.
 
 ---
 
-### 1. 📍 **Markets of 'Atliq Exclusive' in APAC**
+### 1.  **Markets of 'Atliq Exclusive' in APAC**
 [Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%201.sql)
 
 - **Objective:** Identify markets in APAC where "Atliq Exclusive" operates.
@@ -28,43 +28,43 @@ Each business question is addressed with SQL and followed by key insights derive
 
 ---
 
-### 2. 📦 **% Increase in Unique Products (2021 vs 2020)**
+### 2.  **% Increase in Unique Products (2021 vs 2020)**
 [Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%202.sql)
 
 - **Insight:** Demand & production rose significantly in FY 2021.
 
 ---
 
-### 3. 🧩 **Product Count by Segment**
+### 3.  **Product Count by Segment**
 [Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%203.sql)
 
 - **Insight:** Notebooks, accessories, and peripherals dominate manufacturing (~83%).
 
 ---
 
-### 4. 🔼 **Segment with Highest Product Growth**
+### 4.  **Segment with Highest Product Growth**
 [Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/4_Segment_Wise_Product_Growth.sql)
 
 - **Insight:** Accessories lead in product increase. Storage & networking show slower growth.
 
 ---
 
-### 5. 💰 **Products with Highest & Lowest Manufacturing Cost**
-[Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%205.sql))
+### 5.  **Products with Highest & Lowest Manufacturing Cost**
+[Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%205.sql)
 
 - **Highest Cost:** Personal Desktop - AQ Home Allin1 Gen2  
 - **Lowest Cost:** Mouse - AQ Master Wired x1
 
 ---
 
-### 6. 🎁 **Top 5 Customers by Avg Pre-Invoice Discount (India, FY2021)**
+### 6.  **Top 5 Customers by Avg Pre-Invoice Discount (India, FY2021)**
 [Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%206.sql)
 
 - **Insight:** Flipkart received the highest avg. discount, Amazon the least.
 
 ---
 
-### 7. 📅 **Monthly Gross Sales of 'Atliq Exclusive'**
+### 7. **Monthly Gross Sales of 'Atliq Exclusive'**
 [Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%207.sql)
 
 - **Highest Month:** November (2020)  
@@ -73,7 +73,7 @@ Each business question is addressed with SQL and followed by key insights derive
 
 ---
 
-### 8. 🔢 **Quarter with Highest Total Sold Quantity in FY2020**
+### 8.  **Quarter with Highest Total Sold Quantity in FY2020**
 [Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%208%2B.sql)
 [Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%208.sql)
 
@@ -90,17 +90,17 @@ Each business question is addressed with SQL and followed by key insights derive
 
 ---
 
-### 10. 🥇 **Top 3 Products by Division (FY2021)**
+### 10.  **Top 3 Products by Division (FY2021)**
 [Query Link ](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%2010.sql)
 
 - **Insight:** Products from every division appear with multiple variants in the top 3.
 
 ---
-## 📊 Bonus: Power BI Dashboard & PDF Report
+##  Bonus: Power BI Dashboard & PDF Report
 
 To bring these SQL insights to life visually, I have also created a **Power BI dashboard** that transforms raw query results into interactive visualizations for better storytelling and decision-making.
 
-🔗 [**Live Report Link**](https://app.powerbi.com/groups/me/reports/b5a86001-999b-44d1-b2ef-cf40936562b5/ReportSection2f07f36e7c500911543b?experience=power-bi)) 
+🔗 [**Live Report Link**](https://app.powerbi.com/groups/me/reports/b5a86001-999b-44d1-b2ef-cf40936562b5/ReportSection2f07f36e7c500911543b?experience=power-bi)
 📄 **[Download Full PDF Analysis](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/sql_ppt.pdf)**
 
 > The PDF contains a well-structured explanation of each business query, SQL logic, and the insights derived, aligned with strategic business understanding.
