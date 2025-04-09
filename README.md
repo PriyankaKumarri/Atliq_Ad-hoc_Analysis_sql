@@ -21,7 +21,7 @@ Each business question is addressed with SQL and followed by key insights derive
 ---
 
 ### 1. 📍 **Markets of 'Atliq Exclusive' in APAC**
-[Query Link 🔗]([https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/1_Markets_Atliq_Exclusive_APAC.sql](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%201.sql)
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%201.sql)
 
 - **Objective:** Identify markets in APAC where "Atliq Exclusive" operates.
 - **Insight:** Strategic regions for expansion and marketing focus.
@@ -58,14 +58,14 @@ Each business question is addressed with SQL and followed by key insights derive
 ---
 
 ### 6. 🎁 **Top 5 Customers by Avg Pre-Invoice Discount (India, FY2021)**
-[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/6_Top_5_Customers_Discount.sql)
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%206.sql)
 
 - **Insight:** Flipkart received the highest avg. discount, Amazon the least.
 
 ---
 
 ### 7. 📅 **Monthly Gross Sales of 'Atliq Exclusive'**
-[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/7_Monthly_Gross_Sales_Atliq_Exclusive.sql)
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%207.sql)
 
 - **Highest Month:** November (2020)  
 - **Lowest Month:** March (2020)  
@@ -74,7 +74,7 @@ Each business question is addressed with SQL and followed by key insights derive
 ---
 
 ### 8. 🔢 **Quarter with Highest Total Sold Quantity in FY2020**
-[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/8_Quarter_Sales_FY2020.sql)
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%208%2B.sql)(https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%208.sql)
 
 - **Top Quarter:** Q1 (approx. 34% of FY2020 sales)  
 - **Bottom Quarter:** Q3
@@ -82,7 +82,7 @@ Each business question is addressed with SQL and followed by key insights derive
 ---
 
 ### 9. 🛍️ **Top Performing Channel in FY2021**
-[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/9_Channel_Wise_Sales_Percentage.sql)
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%209.sql)
 
 - **Top Channel:** Retailer (73.22%)  
 - **Bottom Channel:** Distributor (11.31%)
@@ -90,11 +90,19 @@ Each business question is addressed with SQL and followed by key insights derive
 ---
 
 ### 10. 🥇 **Top 3 Products by Division (FY2021)**
-[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/10_Top_3_Products_By_Division.sql)
+[Query Link 🔗](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Task/Request%2010.sql)
 
 - **Insight:** Products from every division appear with multiple variants in the top 3.
 
 ---
+## 📊 Bonus: Power BI Dashboard & PDF Report
+
+To bring these SQL insights to life visually, I have also created a **Power BI dashboard** that transforms raw query results into interactive visualizations for better storytelling and decision-making.
+
+🔗 **[View Power BI Report](#)** *((https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/Ad%20hoc%20Visuals.pbix))*  
+📄 **[Download Full PDF Analysis](https://github.com/PriyankaKumarri/Atliq_Ad-hoc_Analysis_sql/blob/main/sql_ppt.pdf)**
+
+> The PDF contains a well-structured explanation of each business query, SQL logic, and the insights derived, aligned with strategic business understanding.
 
 ## 🛠 Tools & Skills Used
 
