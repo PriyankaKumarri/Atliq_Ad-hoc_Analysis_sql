@@ -1,3 +1,14 @@
+# Atliq Ad-hoc SQL Analysis
+
+Welcome to the **Atliq Ad-hoc Analysis SQL Project**!  
+This project demonstrates how SQL can be leveraged to perform meaningful ad-hoc data analysis to drive business decisions for **Atliq Hardwares**, a fictional company. The project is based on real-world business problems, showcasing queries that uncover trends, insights, and operational metrics.
+
+---
+
+## 📁 Project Structure
+
+This repository contains a series of **ad-hoc SQL queries** categorized into different business problem statements. The SQL files are structured to be clear, well-commented, and easily understandable for both beginners and experienced analysts.
+
 
 Each query addresses a specific business question and helps understand key areas like:
 
@@ -27,7 +38,7 @@ The main objective of this project is to **practice and showcase SQL skills** by
 - **SQL** (MySQL/BigQuery)
 - **DBMS**: MySQL Workbench / Google BigQuery
 - **Dataset**: Provided via [codebasics.io](https://codebasics.io) virtual internship program
-- **Git & GitHub** for version control
+- **Power BI**: for data visualisation
 
 ---
 
@@ -75,7 +86,7 @@ Hi, I'm **Priyanka Kumari**, a passionate Business Analyst exploring the interse
 This project is a part of my continuous learning journey in SQL and data analytics.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanka-kumarri/)  
-📫 Reach out at: `priyankakumarri@gmail.com`
+📫 Reach out at: `singhpriyanka9703@gmail.com`
 
 ---
 
